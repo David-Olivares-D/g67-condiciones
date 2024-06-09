@@ -1,0 +1,16 @@
+#seccion3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.botones {
+    padding: 7px;
+    border: solid 2px rgb(203, 21, 21);
+}
+
+#ingreso {
+    height: 40px;
+    width: 100px;
+    margin: 30px;
+}

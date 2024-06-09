@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+
+.boxes {
+    display: flex;
+    gap: 5px;
+}
+
+.boxes img {
+    height: 90%;
+    width: 90%;
+}
+
+.boxes p {
+    text-align: center;
+    font-size: larger;
+    padding: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+.box {
+    border: 1px solid blue;
+}
